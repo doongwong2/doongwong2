@@ -7,4 +7,4 @@ my repos:
 [maze_rotation_2d -> 2D Unity Game](https://github.com/doongwong2/maze_rotation_game)  
 [Ludum Dare55 -> First Time in a Game Jam](https://github.com/doongwong2/LudumDare55_summoning)  
 [Flappy Dud -> Followed a Cocos2dx Tutorial](https://github.com/doongwong2/FlappyDud)  
-[I tried using Github Pages](https://doongwong2.github.io/)
+[I tried using Github Pages](https://doongwong2.github.io/)->[Link to Repo](https://github.com/doongwong2/doongwong2.github.io)
